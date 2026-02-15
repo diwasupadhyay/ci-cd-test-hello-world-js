@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-app",
+  "version": "1.0.0",
+  "description": "Simple Hello World app for CI/CD pipeline testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
